@@ -1,0 +1,23 @@
+.btn{
+    height: 100px;
+    width: 220px;
+    border: solid 1px black;
+    display: inline-block;
+}
+.das{
+    color:green;
+
+}
+.qayci{
+    color:red
+}
+.kagiz{
+    color: blue;
+}
+.basla{
+    width: 200px;
+    height: 30px;
+    margin: auto;
+    margin-top: 20px;
+    border: solid 1px green;
+}
